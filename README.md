@@ -32,7 +32,7 @@ Need to classify them into two classes: with and without hotdog.
 ##Folders
 - data - train and score datasets
 - logs - tensorboard logs for ConvNN
-- models - serialized models
+- models - serialized models (there is no SVM.joblib cause it weights more than 1GB)
 - result - final scores of models on unmapped data
 
 ##Conclusion
